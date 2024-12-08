@@ -1,3 +1,9 @@
+/**
+ * @Project GiaoDienUser
+ * @Author TT(trungthanhcva2206@gmail.com@gmail.com)
+ * @Copyright (C) 2024 CHK. All rights reserved
+ * @License GNU/GPL version 3.0
+ */
 export default {
 	fetchAndStoreQueryParams: () => {
 		const ward = appsmith.URL.queryParams.ward;
