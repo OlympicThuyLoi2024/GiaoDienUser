@@ -39,12 +39,12 @@ Giao diện User của hệ thống SafeZone được xây dựng bằng nền t
 9. Trong Appsmith, nhấn nút **Connect Git** để hoàn tất.
 10. Sau khi kết nối thành công, nếu cần, cấu hình lại **Datasource** trong tab **Reconnect Datasources**.
 
-## 🙌 Đóng góp cho dự án
+## Đóng góp cho dự án
 
 <a href="https://github.com/OlympicThuyLoi2024/GiaoDienUser/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=BUG">Bug Report ⚠️
 </a>
 
-<a href="https://github.com/pmnm2024/smart_tlu/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=RequestFeature:">Request Feature 👩‍💻</a>
+<a href="https://github.com/OlympicThuyLoi2024/GiaoDienUser/issues/new?assignees=&labels=&projects=&template=feature_template.md&title=Feature">Request Feature 👩‍💻</a>
 
 Nếu bạn muốn đóng góp cho dự án, hãy đọc [CONTRIBUTING.md](.github/CONTRIBUTING.md) để tìm hiểu thêm chi tiết.
 
