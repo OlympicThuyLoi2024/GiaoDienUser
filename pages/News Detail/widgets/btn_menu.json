@@ -10,7 +10,17 @@
     }
   },
   "dynamicBindingPathList": [],
-  "dynamicTriggerPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "groupButtons.groupButton1.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton2.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton3.onClick"
+    }
+  ],
   "groupButtons": {
     "groupButton1": {
       "buttonColor": "#193c5a",
@@ -20,8 +30,9 @@
       "index": 0,
       "isDisabled": false,
       "isVisible": true,
-      "label": "Homepage",
+      "label": "Trang chủ",
       "menuItems": {},
+      "onClick": "{{navigateTo('Homepage', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },
@@ -33,8 +44,9 @@
       "index": 1,
       "isDisabled": false,
       "isVisible": true,
-      "label": "News",
+      "label": "Thông tin",
       "menuItems": {},
+      "onClick": "{{navigateTo('News', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },
@@ -46,7 +58,7 @@
       "index": 2,
       "isDisabled": false,
       "isVisible": true,
-      "label": "Region",
+      "label": "Thống kê",
       "menuItems": {
         "menuItem3": {
           "backgroundColor": "#DD4B34",
@@ -63,6 +75,7 @@
           "widgetId": ""
         }
       },
+      "onClick": "{{navigateTo('Region', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },

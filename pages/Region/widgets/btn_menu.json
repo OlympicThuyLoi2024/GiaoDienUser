@@ -10,7 +10,23 @@
     }
   },
   "dynamicBindingPathList": [],
-  "dynamicTriggerPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "groupButtons.groupButton1.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton2.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton3.onClick"
+    },
+    {
+      "key": "groupButtons.groupButtonwzbw27k9vr.onClick"
+    },
+    {
+      "key": "groupButtons.groupButtonvnu5436arw.onClick"
+    }
+  ],
   "groupButtons": {
     "groupButton1": {
       "buttonColor": "#193c5a",
@@ -20,8 +36,9 @@
       "index": 0,
       "isDisabled": false,
       "isVisible": true,
-      "label": "Homepage",
+      "label": "Trang chủ",
       "menuItems": {},
+      "onClick": "{{navigateTo('Homepage', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },
@@ -33,8 +50,9 @@
       "index": 1,
       "isDisabled": false,
       "isVisible": true,
-      "label": "News",
+      "label": "Thông tin",
       "menuItems": {},
+      "onClick": "{{navigateTo('News', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },
@@ -46,7 +64,7 @@
       "index": 2,
       "isDisabled": false,
       "isVisible": true,
-      "label": "Region",
+      "label": "Thống kê",
       "menuItems": {
         "menuItem3": {
           "backgroundColor": "#DD4B34",
@@ -63,6 +81,7 @@
           "widgetId": ""
         }
       },
+      "onClick": "{{navigateTo('Region', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },
@@ -78,6 +97,7 @@
       "itemType": "BUTTON",
       "label": "Chatbox",
       "menuItems": {},
+      "onClick": "{{navigateTo('Chatbox', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "variant": "filled",
       "widgetId": "snq1zy1n4t"
@@ -94,6 +114,7 @@
       "itemType": "BUTTON",
       "label": "Chatbot",
       "menuItems": {},
+      "onClick": "{{navigateTo('Chatbot', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "variant": "filled",
       "widgetId": "lv39l1bcaq"

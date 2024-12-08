@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 103,
+  "bottomRow": 85,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -30,8 +30,8 @@
   "mobileRightColumn": 54,
   "mobileTopRow": 36,
   "needsErrorInfo": false,
-  "originalBottomRow": 103,
-  "originalTopRow": 78,
+  "originalBottomRow": 85,
+  "originalTopRow": 65,
   "overflow": "NONE",
   "parentColumnSpace": 13.890625,
   "parentId": "5owkkuyvhn",
@@ -43,7 +43,7 @@
   "text": "Hãy truy cập ngay để cập nhật tình hình dịch bệnh, theo dõi các số liệu quan trọng, và nhận lời khuyên từ các chuyên gia y tế hàng đầu. Đây là lúc chúng ta cần sát cánh cùng nhau, hỗ trợ lẫn nhau để vượt qua giai đoạn khó khăn này.\n\nCùng hành động hôm nay vì một tương lai an toàn hơn, tốt đẹp hơn!",
   "textAlign": "CENTER",
   "textColor": "#231F20",
-  "topRow": 78,
+  "topRow": 65,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,

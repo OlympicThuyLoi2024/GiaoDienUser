@@ -7,7 +7,11 @@
   "buttonVariant": "SECONDARY",
   "disabledWhenInvalid": false,
   "dynamicBindingPathList": [],
-  "dynamicTriggerPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
   "iconAlign": "right",
   "isDefaultClickDisabled": true,
   "isDisabled": false,
@@ -21,6 +25,7 @@
   "mobileRightColumn": 56,
   "mobileTopRow": 0,
   "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Info', {}, 'SAME_WINDOW');}}",
   "parentColumnSpace": 16.53125,
   "parentId": "y9zxt5ml7h",
   "parentRowSpace": 10,
@@ -30,7 +35,7 @@
   "resetFormOnClick": false,
   "responsiveBehavior": "hug",
   "rightColumn": 55,
-  "text": "cab@gmail.com",
+  "text": "Welcome",
   "topRow": 1,
   "type": "BUTTON_WIDGET",
   "version": 1,

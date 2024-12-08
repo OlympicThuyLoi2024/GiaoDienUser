@@ -36,7 +36,7 @@
       "index": 0,
       "isDisabled": false,
       "isVisible": true,
-      "label": "Homepage",
+      "label": "Trang chủ",
       "menuItems": {},
       "onClick": "{{navigateTo('Homepage', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
@@ -50,7 +50,7 @@
       "index": 1,
       "isDisabled": false,
       "isVisible": true,
-      "label": "News",
+      "label": "Thông tin",
       "menuItems": {},
       "onClick": "{{navigateTo('News', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
@@ -64,7 +64,7 @@
       "index": 2,
       "isDisabled": false,
       "isVisible": true,
-      "label": "Region",
+      "label": "Thống kê",
       "menuItems": {
         "menuItem3": {
           "backgroundColor": "#DD4B34",
