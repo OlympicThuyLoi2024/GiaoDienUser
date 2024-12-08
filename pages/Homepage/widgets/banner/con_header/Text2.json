@@ -1,0 +1,55 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 22,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "textColor"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "ITALIC",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "9ifsfe36gh",
+  "leftColumn": 9,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 12,
+  "mobileLeftColumn": 17,
+  "mobileRightColumn": 33,
+  "mobileTopRow": 8,
+  "needsErrorInfo": false,
+  "originalBottomRow": 22,
+  "originalTopRow": 9,
+  "overflow": "NONE",
+  "parentColumnSpace": 16.53125,
+  "parentId": "yiv9ecf18o",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 55,
+  "shouldTruncate": false,
+  "text": "Hiện nay, đại dịch vẫn đang diễn biến phức tạp, ảnh hưởng sâu rộng đến mọi mặt của cuộc sống trên toàn cầu. Tình hình tại nhiều quốc gia thay đổi từng ngày, đòi hỏi mỗi người chúng ta phải luôn cập nhật thông tin nhanh chóng và chính xác để bảo vệ bản thân và cộng đồng\nHãy cùng chung tay, lan tỏa thông tin chính xác và ý nghĩa, để vượt qua giai đoạn đầy thử thách này một cách an toàn và bền vững",
+  "textAlign": "CENTER",
+  "textColor": "{{appsmith.theme.colors.backgroundColor}}",
+  "topRow": 9,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "pwyrj8p3n7",
+  "widgetName": "Text2"
+}

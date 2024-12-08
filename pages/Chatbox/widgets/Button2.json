@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0px",
+  "bottomRow": 80,
+  "boxShadow": "none",
+  "buttonColor": "#14532d",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [],
+  "dynamicPropertyPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "vfp6jo29s2",
+  "leftColumn": 57,
+  "minWidth": 120,
+  "mobileBottomRow": 59,
+  "mobileLeftColumn": 46,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 55,
+  "needsErrorInfo": false,
+  "onClick": "{{Insert_Message.run(() => {\n    Input1.setValue(\"\"); //\n}, (error) => {\n    showAlert(\"Có lỗi xảy ra: \" + error.message, \"error\");\n})}}\n",
+  "originalBottomRow": 69,
+  "originalTopRow": 65,
+  "parentColumnSpace": 16.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 64,
+  "text": "Send",
+  "topRow": 76,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "gscuy2gu2b",
+  "widgetName": "Button2"
+}

@@ -1,0 +1,40 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 20,
+  "boxShadow": "none",
+  "defaultImage": "https://media.istockphoto.com/id/1218217981/vi/anh/n%E1%BB%81n-coronavirus-3d-n%E1%BB%81n-covid-19-k%E1%BA%BFt-xu%E1%BA%A5t-3d-n%E1%BB%81n-coronavirus-m%C3%B4-h%C3%ACnh-3d-v%E1%BB%9Bi-m%C3%A0u-xanh-tosca.jpg?s=170667a&w=0&k=20&c=sGaA81Yv-wSC98U3JKTbttBQRLt84zxV-JUiuRoG7Bk=",
+  "dynamicBindingPathList": [
+    {
+      "key": "image"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "{{currentItem.img}}",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "ima8q7wdwo",
+  "leftColumn": 0,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 8,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 16,
+  "mobileTopRow": 0,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "parentId": "jimm9alpx0",
+  "renderMode": "CANVAS",
+  "rightColumn": 18,
+  "topRow": 0,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "7yjkpn0kvo",
+  "widgetName": "Image1"
+}

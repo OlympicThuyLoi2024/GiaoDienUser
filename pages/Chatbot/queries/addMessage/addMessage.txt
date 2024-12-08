@@ -1,0 +1,4 @@
+{
+	"chatInput": "{{Input1.text}}",
+	"id": 2
+}

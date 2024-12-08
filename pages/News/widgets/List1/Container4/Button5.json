@@ -1,0 +1,49 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0px",
+  "bottomRow": 26,
+  "boxShadow": "none",
+  "buttonColor": "#14532d",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "j9lc0lexvo",
+  "leftColumn": 47,
+  "minWidth": 120,
+  "mobileBottomRow": 26,
+  "mobileLeftColumn": 47,
+  "mobileRightColumn": 63,
+  "mobileTopRow": 22,
+  "needsErrorInfo": false,
+  "onClick": "{{storeValue(\"selectedNewsDocumentId\", currentItem.documentId);\nnavigateTo('News Detail', {}, 'SAME_WINDOW');}}",
+  "parentColumnSpace": 7.14453125,
+  "parentId": "jimm9alpx0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 63,
+  "text": "Truy cập",
+  "topRow": 22,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "fx2wenw597",
+  "widgetName": "Button5"
+}

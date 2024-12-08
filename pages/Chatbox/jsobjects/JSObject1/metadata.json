@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "67505c2d1cc72f1a54257b22_7d7e3165-c337-449b-8df3-c083c27f1bb9",
+  "id": "Chatbox_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Chatbox",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "intervalId",
+        "value": "null"
+      },
+      {
+        "name": "lastDataApi2",
+        "value": "null"
+      }
+    ]
+  }
+}

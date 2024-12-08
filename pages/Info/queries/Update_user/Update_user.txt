@@ -1,0 +1,5 @@
+{
+	"fullname": "{{Input1.text}}",
+	"phone": "{{Input3.text}}",
+	"address": "{{Input5.text}}"
+}

@@ -1,0 +1,110 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0px",
+  "bottomRow": 6,
+  "boxShadow": "none",
+  "buttonVariant": "PRIMARY",
+  "childStylesheet": {
+    "button": {
+      "buttonColor": "{{appsmith.theme.colors.primaryColor}}"
+    }
+  },
+  "dynamicBindingPathList": [],
+  "dynamicPropertyPathList": [],
+  "dynamicTriggerPathList": [],
+  "groupButtons": {
+    "groupButton1": {
+      "buttonColor": "#245682",
+      "buttonType": "SIMPLE",
+      "iconName": "home",
+      "id": "groupButton1",
+      "index": 0,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "",
+      "menuItems": {},
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButton2": {
+      "buttonColor": "#245682",
+      "buttonType": "SIMPLE",
+      "iconName": "new-drawing",
+      "id": "groupButton2",
+      "index": 1,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "",
+      "menuItems": {},
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButton3": {
+      "buttonColor": "#245682",
+      "buttonType": "SIMPLE",
+      "iconName": "map-marker",
+      "id": "groupButton3",
+      "index": 2,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "",
+      "menuItems": {
+        "menuItem3": {
+          "backgroundColor": "#DD4B34",
+          "iconAlign": "right",
+          "iconColor": "#FFFFFF",
+          "iconName": "trash",
+          "id": "menuItem3",
+          "index": 0,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Delete",
+          "onClick": "",
+          "textColor": "#FFFFFF",
+          "widgetId": ""
+        }
+      },
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButtonwzbw27k9vr": {
+      "buttonColor": "#245682",
+      "buttonType": "SIMPLE",
+      "iconName": "chat",
+      "id": "groupButtonwzbw27k9vr",
+      "index": 3,
+      "isDisabled": false,
+      "isSeparator": false,
+      "isVisible": true,
+      "itemType": "BUTTON",
+      "label": "",
+      "menuItems": {},
+      "placement": "CENTER",
+      "variant": "filled",
+      "widgetId": "lv39l1bcaq"
+    }
+  },
+  "isCanvas": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "ma834y5x29",
+  "leftColumn": 0,
+  "minWidth": 450,
+  "mobileBottomRow": 27,
+  "mobileLeftColumn": 9,
+  "mobileRightColumn": 33,
+  "mobileTopRow": 23,
+  "needsErrorInfo": false,
+  "orientation": "horizontal",
+  "parentColumnSpace": 16.84375,
+  "parentId": "3ewvxg3xsu",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 13,
+  "topRow": 1,
+  "type": "BUTTON_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "gftsomp3se",
+  "widgetName": "btn_menuCopy"
+}

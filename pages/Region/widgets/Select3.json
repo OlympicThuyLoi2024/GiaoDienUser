@@ -1,0 +1,72 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 48,
+  "boxShadow": "none",
+  "defaultOptionValue": "GREEN",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    },
+    {
+      "key": "onOptionChange"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onOptionChange"
+    }
+  ],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "o8f602g2rd",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "Xã Phường",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 48,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 20,
+  "mobileTopRow": 41,
+  "needsErrorInfo": false,
+  "onOptionChange": "{{Get_ward_count.run()}}",
+  "optionLabel": "label",
+  "optionValue": "value",
+  "originalBottomRow": 48,
+  "originalTopRow": 41,
+  "parentColumnSpace": 14.203125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 21,
+  "serverSideFiltering": false,
+  "sourceData": "{{ \n    [ \n    ...Select_ward.data.data.map(item => ({ label: item.Name, value: item.documentId }))]\n}}",
+  "topRow": 41,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "bsnilc5y8o",
+  "widgetName": "Select3"
+}

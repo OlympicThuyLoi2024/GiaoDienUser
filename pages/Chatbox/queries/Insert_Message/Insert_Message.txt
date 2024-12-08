@@ -1,0 +1,7 @@
+{
+  "data": {
+    "Message": "{{Input1.text}}",
+    "users_permissions_user": {{appsmith.store.user_id}},
+    "ward": "{{appsmith.store.ward}}"
+  }
+}
