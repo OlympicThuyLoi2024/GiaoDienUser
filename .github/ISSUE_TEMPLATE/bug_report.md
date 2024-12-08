@@ -1,3 +1,5 @@
+# Bug Report
+
 ## Mô Tả Lỗi
 
 Mô tả chi tiết về lỗi bạn gặp phải.
@@ -20,10 +22,10 @@ Mô tả kết quả mà bạn mong đợi khi thực hiện các bước tái t
 
 ## Môi Trường
 
-- **Hệ điều hành (OS):**
-- **Phiên bản phần mềm:**
-- **Trình duyệt (nếu có):**
-- **Các yếu tố khác (nếu có):**
+- **Hệ điều hành (OS):** [Ví dụ: Windows 10, macOS 11.5]
+- **Phiên bản phần mềm:** [Phiên bản phần mềm bạn đang sử dụng]
+- **Trình duyệt (nếu có):** [Ví dụ: Chrome 95, Firefox 92]
+- **Các yếu tố khác (nếu có):** [Các thông tin về môi trường khác nếu cần]
 
 ## Ảnh Chụp Màn Hình hoặc Log Lỗi (Nếu Có)
 
