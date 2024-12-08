@@ -38,7 +38,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 24,
   "shouldTruncate": false,
-  "text": "SafeZone nè ",
+  "text": "SafeZone",
   "textAlign": "LEFT",
   "textColor": "{{appsmith.theme.colors.backgroundColor}}",
   "topRow": 1,
