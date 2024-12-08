@@ -3,7 +3,7 @@
 
 Giao diện User của hệ thống SafeZone được xây dựng bằng nền tảng công nghệ LCDP Appsmith
 
-## Changelog
+## Changelogs
 
 ### v1.0
 - Giao diện thông tin cá nhân
