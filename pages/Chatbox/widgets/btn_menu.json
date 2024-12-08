@@ -52,7 +52,7 @@
       "isVisible": true,
       "label": "Thông tin",
       "menuItems": {},
-      "onClick": "{{navigateTo('Info', {}, 'SAME_WINDOW');}}",
+      "onClick": "{{navigateTo('Region', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },
