@@ -12,7 +12,7 @@ Giao diện User của hệ thống SafeZone được xây dựng bằng nền t
 - Giao diện thông tin
 - Giao diện Chat Box
 - Giao diện Chat Bot
-- Giao diện thông tin chi
+- Giao diện thông tin chi tiết
 
 ## Hướng dẫn cài đặt
 ### 1. Yêu cầu
@@ -56,4 +56,4 @@ Chúng tôi rất trân trọng mọi đóng góp từ các bạn. Đừng ngầ
 - Lê Văn Quang
 
 # License
-Phần mềm sử dụng License [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+Phần mềm sử dụng License  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
