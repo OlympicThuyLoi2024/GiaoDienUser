@@ -1,38 +1,34 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+## Mô Tả Lỗi
 
----
+Mô tả chi tiết về lỗi bạn gặp phải.
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Các Bước Để Tái Tạo
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Cung cấp các bước để tái tạo lỗi (nếu có thể).
+2. Ví dụ:
+   - Bước 1
+   - Bước 2
+   - Bước 3
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Kết Quả Thực Tế
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Mô tả kết quả mà bạn nhận được khi thực hiện các bước tái tạo lỗi.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Kết Quả Mong Đợi
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+Mô tả kết quả mà bạn mong đợi khi thực hiện các bước tái tạo lỗi.
 
-**Additional context**
-Add any other context about the problem here.
+## Môi Trường
+
+- **Hệ điều hành (OS):**
+- **Phiên bản phần mềm:**
+- **Trình duyệt (nếu có):**
+- **Các yếu tố khác (nếu có):**
+
+## Ảnh Chụp Màn Hình hoặc Log Lỗi (Nếu Có)
+
+Nếu có ảnh chụp màn hình hoặc thông báo lỗi (log), vui lòng đính kèm tại đây.
+
+## Thông Tin Khác
+
+Cung cấp thêm thông tin có thể hữu ích trong việc sửa lỗi.
