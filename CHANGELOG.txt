@@ -1,1 +1,10 @@
+Changelogs
 
+v1.0
+- Giao diện thông tin cá nhân
+- Giao diện trang chủ
+- Giao diện thống kê
+- Giao diện thông tin
+- Giao diện Chat Box
+- Giao diện Chat Bot
+- Giao diện thông tin chi
