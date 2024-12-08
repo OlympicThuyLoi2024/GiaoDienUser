@@ -1,6 +1,6 @@
 ## ĐÓNG GÓP - SafeZone 
 
-Có nhiều cách để bạn có thể đóng góp cho dự án này. Dưới đây là một số hướng dẫn về các việc bạn có thể làm và quy trình thực hiện đối với từng loại đóng góp. Mọi đóng góp của bạn đều phải tuân theo các quy tắc ứng xử của dự án, được ghi rõ trong [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+Có nhiều cách để bạn có thể đóng góp cho dự án này. Dưới đây là một số hướng dẫn về các việc bạn có thể làm và quy trình thực hiện đối với từng loại đóng góp.
 
 ### Cập nhật mã nguồn hoặc tài liệu
 
