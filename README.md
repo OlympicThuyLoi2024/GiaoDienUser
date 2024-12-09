@@ -19,7 +19,7 @@ Giao diện User của hệ thống SafeZone được xây dựng bằng nền t
 Để cài đặt và chạy được dự án, trước tiên bạn cần phải cài đặt các công cụ bên dưới. Hãy thực hiện theo các hướng dẫn cài đặt sau, lưu ý chọn hệ điều hành phù hợp với máy tính của bạn:
 - [**AppSmith**](https://docs.appsmith.com/getting-started/setup): Phiên bản >=1.2
 
-### 2. Cài đặt dữ án
+### 2. Cài đặt dự án
 #### Bước 1: Fork dự án về
 1. Fork dự án của bạn tại: https://github.com/OlympicThuyLoi2024/GiaoDienUser
 #### Bước 2: Thiết lập liên kết đến Git
