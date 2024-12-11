@@ -32,7 +32,7 @@
   "mobileRightColumn": 55,
   "mobileTopRow": 1,
   "needsErrorInfo": false,
-  "onClick": "{{targetAppURL = `http://14.225.218.213:8080/app/user/homepage-67505c2d1cc72f1a54257b29}}",
+  "onClick": "{{Logout.navigateBasedOnRole();}}",
   "parentColumnSpace": 13.578125,
   "parentId": "yiv9ecf18o",
   "parentRowSpace": 10,
