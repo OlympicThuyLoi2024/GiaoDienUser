@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67505c2d1cc72f1a54257b22_be67cca4-2286-4514-839b-1af962001eff",
+  "id": "Chatbox_Logout",
+  "unpublishedCollection": {
+    "name": "Logout",
+    "pageId": "Chatbox",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

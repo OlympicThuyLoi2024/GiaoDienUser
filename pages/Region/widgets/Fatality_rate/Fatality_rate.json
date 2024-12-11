@@ -62,6 +62,8 @@
   "leftColumn": 48,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
+  "originalBottomRow": 75,
+  "originalTopRow": 67,
   "parentColumnSpace": 14.0625,
   "parentId": "0",
   "parentRowSpace": 10,

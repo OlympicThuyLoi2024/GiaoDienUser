@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67505c2d1cc72f1a54257b22_6f24cced-8c3f-46ad-b4d3-c385241b72bf",
+  "id": "Chatbot_Logout",
+  "unpublishedCollection": {
+    "name": "Logout",
+    "pageId": "Chatbot",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

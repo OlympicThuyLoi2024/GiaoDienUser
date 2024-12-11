@@ -53,6 +53,8 @@
   "onOptionChange": "{{ \n  storeValue(\"selectedValueData\", Select1Copy.selectedOptionValue)\n  .then(() => Get_data_detail.run())\n}}\n",
   "optionLabel": "date",
   "optionValue": "documentId",
+  "originalBottomRow": 65,
+  "originalTopRow": 58,
   "parentColumnSpace": 15.861328125,
   "parentId": "0",
   "parentRowSpace": 10,
