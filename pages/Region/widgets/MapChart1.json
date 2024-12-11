@@ -1,6 +1,6 @@
 {
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 122,
+  "bottomRow": 123,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "colorRange": [
     {
@@ -80,7 +80,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 31,
   "showLabels": true,
-  "topRow": 78,
+  "topRow": 79,
   "type": "MAP_CHART_WIDGET",
   "version": 1,
   "widgetId": "1pawr07lfi",
